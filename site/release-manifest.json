@@ -1,0 +1,43 @@
+{
+  "version": "2026.10.09.1",
+  "date": "2026-10-09",
+  "contentDigest": "b36fbe22ca6beffa5969fe3c32d6c5980765f331098f573cccd7fabc3e720ee6",
+  "files": {
+    "index.html": {
+      "bytes": 731788,
+      "sha256": "c0466bfd87fca07885f8495ba3779ff2a09739eecfa4bb72533e0c90576a4558"
+    },
+    "knowledge-base.json": {
+      "bytes": 249313,
+      "sha256": "130cb7b02f40a8698127125f228f85bf53682b57f36a406909cbb56a325ae10b"
+    },
+    "knowledge-base.md": {
+      "bytes": 192472,
+      "sha256": "03465fb3835a785d33de58d3b1083e5547d23eea25a271cf8c11b6ff91f069ab"
+    },
+    "video-study.json": {
+      "bytes": 169848,
+      "sha256": "bc3dfbf4c8eb069c7a40e31fe634f6cb34d6579cdad444ce2e66e412833103d2"
+    },
+    "video-study.md": {
+      "bytes": 120308,
+      "sha256": "5b0a390e7820d642acd8f88d05e453c1ddadaae518bff7465581213d1d8f2280"
+    },
+    "mechanics-study.md": {
+      "bytes": 25142,
+      "sha256": "1331bdc8c1083a7a665d60209cf5aa8b3e6133b64e43cc4e45d74337193504a3"
+    },
+    "release.json": {
+      "bytes": 359,
+      "sha256": "f41974ee62e665ec255fb0e3f88630cf539dd04a381877097b71c5cb53f8e3ea"
+    },
+    ".nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "404.html": {
+      "bytes": 729,
+      "sha256": "2ab06d05d9769728d73e572ba56807d8ca1485394e34697124bdcbc88d8c6f89"
+    }
+  }
+}
