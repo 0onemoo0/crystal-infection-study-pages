@@ -1,35 +1,35 @@
 {
-  "version": "2026.10.09.1",
-  "date": "2026-10-09",
-  "contentDigest": "b36fbe22ca6beffa5969fe3c32d6c5980765f331098f573cccd7fabc3e720ee6",
+  "version": "2026.10.18.1",
+  "date": "2026-10-18",
+  "contentDigest": "fb51b8ee4b0eedc1ec1c0e73006ea34dbf718a7e477e6774885838802a709846",
   "files": {
     "index.html": {
-      "bytes": 731788,
-      "sha256": "c0466bfd87fca07885f8495ba3779ff2a09739eecfa4bb72533e0c90576a4558"
+      "bytes": 735992,
+      "sha256": "0abbb6813cb373374422d1733a5881d63ffc39b768170f2632f641a9e82110cc"
     },
     "knowledge-base.json": {
-      "bytes": 249313,
-      "sha256": "130cb7b02f40a8698127125f228f85bf53682b57f36a406909cbb56a325ae10b"
+      "bytes": 249196,
+      "sha256": "f2a7998cc41cc6a026d2dc861cfa46b9161f9bd3ec94db07a0fd05f3dd002013"
     },
     "knowledge-base.md": {
-      "bytes": 192472,
-      "sha256": "03465fb3835a785d33de58d3b1083e5547d23eea25a271cf8c11b6ff91f069ab"
+      "bytes": 192675,
+      "sha256": "1a6c2b0eafe4c315a06ab2248fa8f311c39824a15a409fb40c1256f3953eccd5"
     },
     "video-study.json": {
-      "bytes": 169848,
-      "sha256": "bc3dfbf4c8eb069c7a40e31fe634f6cb34d6579cdad444ce2e66e412833103d2"
+      "bytes": 169731,
+      "sha256": "8241398d8586f3a568258dac50127d8af744a24177cdc8cf845450bf3ef3ae63"
     },
     "video-study.md": {
-      "bytes": 120308,
-      "sha256": "5b0a390e7820d642acd8f88d05e453c1ddadaae518bff7465581213d1d8f2280"
+      "bytes": 120469,
+      "sha256": "79ffd1576a69e5537de41dae196d923c8b71292913279e48a23e9a53d7d4c849"
     },
     "mechanics-study.md": {
       "bytes": 25142,
       "sha256": "1331bdc8c1083a7a665d60209cf5aa8b3e6133b64e43cc4e45d74337193504a3"
     },
     "release.json": {
-      "bytes": 359,
-      "sha256": "f41974ee62e665ec255fb0e3f88630cf539dd04a381877097b71c5cb53f8e3ea"
+      "bytes": 406,
+      "sha256": "2d377c45347a37d9952d9c1bcbd61e76a15d55e438e3784d450704261aadc7b5"
     },
     ".nojekyll": {
       "bytes": 0,
